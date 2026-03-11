@@ -21,7 +21,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,cpp,kotlin,javascript" />
 </p>
 
 ### Web Development
