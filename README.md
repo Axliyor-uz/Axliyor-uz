@@ -16,34 +16,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,kotlin,javascript" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=android,kotlin" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,firebase,vscode,linux" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -59,7 +31,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/axliyor-uz><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Crypton404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/axliyor-uz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/A_Tojiboyev">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
