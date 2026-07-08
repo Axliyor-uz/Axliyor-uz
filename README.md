@@ -33,10 +33,13 @@
 
 ## 💡 Current Focus
 
-* Developing **modern React applications**
-* Building **Android apps with Kotlin**
+* Exploring **Cybersecurity**, ethical hacking, and secure software development
+* Learning **Artificial Intelligence (AI)**
 * Learning **advanced systems programming & architecture**
 * Exploring **cloud and Firebase backends**
+* Developing **modern React applications**
+* Building **Android apps with Kotlin**
+* Continuously improving problem-solving skills and software architecture through real-world projects
 
 ---
 
