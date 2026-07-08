@@ -16,18 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axliyor-uz&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=axliyor-uz&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axliyor-uz&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
----
 
 
 
